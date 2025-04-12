@@ -1,9 +1,7 @@
 # HW5
 ---
-title: "California Wind Turbines"
-author: "Your Name"
-date: "`r Sys.Date()`"
-output: html_document
+Title: "California Wind Turbines"
+Author: "Muzammal Shafique"
 ---
 
 ```{r setup, include=FALSE}
