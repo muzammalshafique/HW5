@@ -1,4 +1,4 @@
-# HW5: Solution to Question 2
+# HW5: Solution to Question 1
 ---
 Title: "California Wind Turbines"
 Author: "Muzammal Shafique"
