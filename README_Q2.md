@@ -4,10 +4,6 @@ Title: "California Wind Turbines"
 Author: "Muzammal Shafique"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
-```
-
 ## Load Libraries
 ```{r}
 library(ggplot2)
